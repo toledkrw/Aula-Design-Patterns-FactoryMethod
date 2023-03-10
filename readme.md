@@ -4,16 +4,16 @@
 
 <div align="center">
   <a href="#">
-    <img src="" style="width:200px; height:200px;"alt="Logo" />
+    <img src="https://i.redd.it/rgoidslloso81.gif" style="width:200px; height:200px;"alt="Logo" />
   </a>
 
-  <h3 align="center">Arquitetura e Projeto de Software - Padrões de <.> - <@></h3>
+  <h3 align="center">Arquitetura e Projeto de Software - Padrões de Criação - Factory Method</h3>
 
 </div>
 
 ## 🔰 Começando
 
-Esse projeto foi criado para apresentar o padrão de projeto <@>, implementado na linguagem Java.
+Esse projeto foi criado para apresentar o padrão de projeto Factory Method, implementado na linguagem Java.
 
 <br/>
 <br/>
@@ -41,9 +41,9 @@ Você precisa dessas tecnologias instaladas nessas versões:
 A aplicação conta com a seguinte funcionalidade:
 <br/>
 
-### Implementação do padrão <@>
+### Implementação do padrão Factory Method
 
-O padrão <@> é um padrão de projeto que busca garantir 
+O padrão Factory Method é um padrão de projeto que busca garantir que várias classes possam implementar o(s) mesmo(s) método(s), de forma genérica. Dessa forma, é feito o uso de interfaces e de uma classe que possa instanciar outras classes que implementarão aquela interface que dará a genericidade de métodos às classes criadas.
 
 <div align="center"><img src="assets\classDiagram.jpg"/></div>
 
@@ -55,18 +55,18 @@ Distribuído sob a MTI License. Veja `LICENSE` para mais informações.
 
 <!-- BADGE - Contributors -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/toledkrw/<>.svg?style=for-the-badge
-[contributors-url]: https://github.com/toledkrw/<>/graphs/contributors
+[contributors-shield]: https://img.shields.io/github/contributors/toledkrw/Aula-Design-Patterns-FactoryMethod.svg?style=for-the-badge
+[contributors-url]: https://github.com/toledkrw/Aula-Design-Patterns-FactoryMethod/graphs/contributors
 
 <!-- BADGE - Issues -->
 
-[issues-shield]: https://img.shields.io/github/issues/toledkrw/<>.svg?style=for-the-badge
-[issues-url]: https://github.com/toledkrw/<>/issues
+[issues-shield]: https://img.shields.io/github/issues/toledkrw/Aula-Design-Patterns-FactoryMethod.svg?style=for-the-badge
+[issues-url]: https://github.com/toledkrw/Aula-Design-Patterns-FactoryMethod/issues
 
 <!-- BADGE - License -->
 
-[license-shield]: https://img.shields.io/github/license/toledkrw/<>.svg?style=for-the-badge
-[license-url]: https://github.com/toledkrw/<>/blob/main/LICENSE
+[license-shield]: https://img.shields.io/github/license/toledkrw/Aula-Design-Patterns-FactoryMethod.svg?style=for-the-badge
+[license-url]: https://github.com/toledkrw/Aula-Design-Patterns-FactoryMethod/blob/main/LICENSE
 
 <!--  -->
 <!-- TECHNOLOGIES -->
