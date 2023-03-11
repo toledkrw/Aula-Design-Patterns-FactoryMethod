@@ -36,12 +36,14 @@ Você precisa dessas tecnologias instaladas nessas versões:
 >
 > Se não tiver instalada a tecnologia supracitada, basta clicar na badge referente para baixa-la.
 
+<br/>
+
 ## 🎨 Funcionalidades
 
 A aplicação conta com a seguinte funcionalidade:
 <br/>
 
-### Implementação do padrão Factory Method
+### 🛠️ Implementação do padrão Factory Method
 
 O padrão Factory Method é um padrão de projeto que busca garantir que várias classes possam implementar o(s) mesmo(s) método(s), de forma genérica. Dessa forma, é feito o uso de interfaces e de uma classe que possa instanciar outras classes que implementarão aquela interface que dará a genericidade de métodos às classes criadas.
 
