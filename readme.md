@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="#">
-    <img src="https://i.redd.it/rgoidslloso81.gif" style="width:200px; height:200px;"alt="Logo" />
+    <img src="assets\buzz.gif" style="width:200px; height:200px;"alt="Logo" />
   </a>
 
   <h3 align="center">Arquitetura e Projeto de Software - Padrões de Criação - Factory Method</h3>
